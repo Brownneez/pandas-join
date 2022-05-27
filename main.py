@@ -67,7 +67,6 @@ df16 = people_with_animals.loc[
 ]
 
 
-
 # result for 21
 df21 = animals_table.sort_values('animalsage', ascending=False)
 
